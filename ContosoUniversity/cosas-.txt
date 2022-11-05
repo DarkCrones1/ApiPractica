@@ -1,0 +1,26 @@
+Nombre de dominio
+www.utemetropolitana.edu.mx
+
+//recurso
+www.utemetropolitana.edu.mx/student
+www.utemetropolitana.edu.mx/teacher
+www.utemetropolitana.edu.mx/departments
+
+//puerto
+www.utemetropolitana.edu.mx:8081
+//recurso
+www.utemetropolitana.edu.mx:8081/student
+
+verbos
+Get -> Obtener
+Post -> nuevo recurso
+Patch -> actualizando parcialmente el recurso
+Put -> actualizar por completo el recurso
+Put -> eliminando el recurso
+Delete -> eliminando el recurso
+Head -> estatus 
+
+postman
+fiddler
+insomnia
+thunderclien
